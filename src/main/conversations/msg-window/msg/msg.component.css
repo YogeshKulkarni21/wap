@@ -1,0 +1,7 @@
+.container{
+  display: flex;
+  flex-direction: column;
+}
+.msgtext{
+  font-size: 0.0;
+}
