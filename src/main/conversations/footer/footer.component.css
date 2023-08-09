@@ -27,6 +27,7 @@
   padding-left: 2rem;
 }
 .message > input {
+  border-radius: 10px;
   border-color: transparent;
   font-size: 1.2rem;
   color:#888;
